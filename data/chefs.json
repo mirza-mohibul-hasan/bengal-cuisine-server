@@ -6,7 +6,7 @@
         "yearsOfExperience": 30,
         "numberOfRecipes": 500,
         "likes": 10000,
-        "recipe": [
+        "recipes": [
             {
                 "recipeId": 1,
                 "recipeName": "Classic Cheeseburger",
@@ -63,7 +63,7 @@
         "yearsOfExperience": 25,
         "numberOfRecipes": 300,
         "likes": 7500,
-        "recipe": [
+        "recipes": [
             {
                 "recipeId": 1,
                 "recipeName": "New York-style Pizza",
@@ -127,7 +127,7 @@
         "yearsOfExperience": 20,
         "numberOfRecipes": 200,
         "likes": 5000,
-        "recipe": [
+        "recipes": [
             {
                 "recipeId": 1,
                 "recipeName": "Beef Stroganoff",
@@ -181,7 +181,7 @@
         "yearsOfExperience": 35,
         "numberOfRecipes": 400,
         "likes": 9000,
-        "recipe": [
+        "recipes": [
             {
                 "recipeId": 1,
                 "recipeName": "Baked Ziti",
@@ -237,7 +237,7 @@
         "yearsOfExperience": 25,
         "numberOfRecipes": 250,
         "likes": 6000,
-        "recipe": [
+        "recipes": [
             {
                 "recipeId": 1,
                 "recipeName": "Classic Lasagna",
@@ -306,7 +306,7 @@
         "yearsOfExperience": 15,
         "numberOfRecipes": 150,
         "likes": 3500,
-        "recipe": [
+        "recipes": [
             {
                 "recipeId": 1,
                 "recipeName": "Philly Cheesesteak",
