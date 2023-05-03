@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "chefName": "Gordon Ramsay",
+        "chefPicture": "https://images.unsplash.com/photo-1654922207993-2952fec328ae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y2hlZnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "yearsOfExperience": 30,
+        "numberOfRecipes": 500,
+        "likes": 10000,
+        "description": "Gordon Ramsay is a Scottish-born British chef, restaurateur, writer, and television personality. He has owned and operated several restaurants and has been awarded 16 Michelin stars in total. Ramsay is known for his fiery temper and strict culinary standards."
+    },
+    {
+        "id": 2,
+        "chefName": "Jamie Oliver",
+        "chefPicture": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8Y2hlZnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "yearsOfExperience": 25,
+        "numberOfRecipes": 300,
+        "likes": 7500,
+        "description": "Bobby Flay is an American celebrity chef, restaurateur, and television personality. He is the owner and executive chef of several restaurants, has published numerous cookbooks, and has hosted several television shows."
+    },
+    {
+        "id": 3,
+        "chefName": "Nigella Lawson",
+        "chefPicture": "https://images.unsplash.com/photo-1600565193348-f74bd3c7ccdf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8Y2hlZnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "yearsOfExperience": 20,
+        "numberOfRecipes": 200,
+        "likes": 5000,
+        "description": "Ina Garten is an American author and television host, known for her cookbooks and her show \"Barefoot Contessa\". She is a former staff member of the White House Office of Management and Budget and worked in the field of nuclear energy policy before becoming a cook and author."
+    },
+    {
+        "id": 4,
+        "chefName": "Bobby Flay",
+        "chefPicture": "https://images.unsplash.com/photo-1581299894007-aaa50297cf16?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "yearsOfExperience": 35,
+        "numberOfRecipes": 400,
+        "likes": 9000,
+        "description": "Emeril Lagasse is an American celebrity chef, restaurateur, and television personality. He is the owner and executive chef of several restaurants and has hosted numerous cooking shows on television, including \"Emeril Live\" and \"Essence of Emeril\"."
+    },
+    {
+        "id": 5,
+        "chefName": "Ina Garten",
+        "chefPicture": "https://plus.unsplash.com/premium_photo-1661778091956-15dbe6e47442?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "yearsOfExperience": 25,
+        "numberOfRecipes": 250,
+        "likes": 6000,
+        "description": "Paula Deen is an American celebrity chef and cooking show host. She is known for her Southern-style cuisine and has published numerous cookbooks. Deen has also appeared on several television shows, including \"Paula's Home Cooking\" and \"Paula's Party\"."
+    },
+    {
+        "id": 6,
+        "chefName": "Gino D'Acampo",
+        "chefPicture": "https://images.unsplash.com/photo-1583394293214-28ded15ee548?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "yearsOfExperience": 15,
+        "numberOfRecipes": 150,
+        "likes": 3500,
+        "description": "Guy Fieri is an American restaurateur, author, and television personality. He is the owner and executive chef of several restaurants and has hosted several television shows, including \"Diners, Drive-Ins and Dives\" and \"Guy's Big Bite\"."
+    }
+]
